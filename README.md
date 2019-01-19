@@ -1,0 +1,8 @@
+eve-tools-auth
+==============
+
+
+
+AUTH_SERVER_URL
+EVE_OAUTH_CLIENT_ID
+EVE_OAUTH_SECRET_KEY
